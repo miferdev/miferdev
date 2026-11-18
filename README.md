@@ -1,7 +1,7 @@
 # 💫 About Me:
-**Desarrollador Web (Prácticas / FCT)**
+**Desarrollador Full-stack (Backend oriented)**
 
-- Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como Spring o Angular.
+- Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como Spring boot o Angular.
 - Colaboración en equipo utilizando metodologías ágiles (Scrum) y control de versiones con Git.
 
 ## 🌐 Socials:
